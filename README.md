@@ -1,2 +1,1 @@
-Hello!
-[Good Morning](/good-morning.png)
+Hello! If you've stumbled upon this page, prepare to just be bored. I'm using this repository to host images for my DakBoard display in my bedroom.
